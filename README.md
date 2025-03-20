@@ -1,6 +1,6 @@
 # Aplicatie pentru Gestionarea Inchirierilor de Filme
 
-  Acest proiect este o aplicatie desktop dezvoltata in **C++**, dezvoltata cu **Qt Framework**, care permite administrarea unei colectii de filme si gestionarea unui sistem de cos pentru inchirieri. Aplicatia ofera un set complet de instrumente pentru organizarea eficienta a filmelor, de la operatii CRUD pana la generarea de rapoarte si exportul datelor.
+  Acest proiect este o aplicatie desktop dezvoltata in **C++**, dezvoltata cu **Qt Framework**, care permite administrarea unei colectii de filme si gestionarea unui sistem de inchirieri.
 
 
 ## Functionalitati principale:
