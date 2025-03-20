@@ -19,19 +19,26 @@
 
 ### 3. Functionalitati suplimentare
 -  Undo pentru ultima operatie efectuata
--  Exportarea cosul de inchirieri intr-un fisier HTML
+-  Exportarea cosului de inchirieri intr-un fisier HTML
 -  Generarea unui raport despre genurile de filme
 
 ### 4. Interfete grafice multiple
 -  **Fereastra principala**: centralizeaza toate actiunile
 -  **Fereastra pentru cos**: permite gestionarea filmelor selectate
--  **Mod Read-Only**: ofera o vizualizare grafica a cosul de inchirieri, unde fiecare film este reprezentat printr-o forma geometrica
+-  **Mod Read-Only**: ofera o vizualizare grafica a cosului de inchirieri, unde fiecare film este reprezentat printr-o forma geometrica
 
-## Tehnologii utilizate
-- **Limbaj**: C++ (folosind STL pentru structuri de date si algoritmi)
-- **Interfata Grafica**: Qt Framework
-- **Stocare**: datele sunt salvate in fisiere text
-- **Design Patterns**:
-    -  **Observer**: actualizeaza automat interfata cosului la fiecare modificare
-    -  **Layered Architecture**: separarea logicii aplicatiei
+## Obiective proiect
+  Proiectul a fost realizat in **Anul I, Semestrul 2** de facultate, la cursul de **Programare Orientata Obiect**, avand ca obiective principale:
+-  **Dezvoltarea competentelor practice in C++**:
+  -  Utilizarea **STL** (Standard Template Library) pentru structuri de date si algoritmi
+  -  Implementarea unui sistem CRUD
+-  **Integrarea interfetei grafice cu Qt Framework**:
+  -  Crearea de componente vizuale folosind QWidgets
+-  **Implementarea Design Pattern-urilor**:
+  -  **Observer Pattern**: asigurarea sincronizarii automate a interfetei cosului de inchirieri cu datele interne
+  -  **Layered Architecture**: separarea logicii de business, stocarea datelor si interfata utilizator
+-  **Gestionarea persistentei datelor**:
+  -  Salvarea si incarcarea datelor in/din fisiere text
+-  **Testare si Validare**
+  -  Verificarea functionalitatilor prin testare unitara
 
