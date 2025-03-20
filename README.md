@@ -30,15 +30,15 @@
 ## Obiective proiect
   Proiectul a fost realizat in **Anul I, Semestrul 2** de facultate, la cursul de **Programare Orientata Obiect**, avand ca obiective principale:
 -  **Dezvoltarea competentelor practice in C++**:
-  -  Utilizarea **STL** (Standard Template Library) pentru structuri de date si algoritmi
-  -  Implementarea unui sistem CRUD
+    -  Utilizarea **STL** (Standard Template Library) pentru structuri de date si algoritmi
+    -  Implementarea unui sistem CRUD
 -  **Integrarea interfetei grafice cu Qt Framework**:
-  -  Crearea de componente vizuale folosind QWidgets
+    -  Crearea de componente vizuale folosind QWidgets
 -  **Implementarea Design Pattern-urilor**:
-  -  **Observer Pattern**: asigurarea sincronizarii automate a interfetei cosului de inchirieri cu datele interne
-  -  **Layered Architecture**: separarea logicii de business, stocarea datelor si interfata utilizator
+    -  **Observer Pattern**: asigurarea sincronizarii automate a interfetei cosului de inchirieri cu datele interne
+    -  **Layered Architecture**: separarea logicii de business, stocarea datelor si interfata utilizator
 -  **Gestionarea persistentei datelor**:
-  -  Salvarea si incarcarea datelor in/din fisiere text
+    -  Salvarea si incarcarea datelor in/din fisiere text
 -  **Testare si Validare**
-  -  Verificarea functionalitatilor prin testare unitara
+    -  Verificarea functionalitatilor prin testare unitara
 
