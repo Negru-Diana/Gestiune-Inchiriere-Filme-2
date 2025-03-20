@@ -14,18 +14,18 @@
 
 ### 2. Gestionarea inchirierilor
 -  Adaugare filme in cosul de inchirieri
--  Stergere filme din cos
+-  Stergere filme din cosul de inchirieri
 -  Generare cos cu filme aleatorii
 
 ### 3. Functionalitati suplimentare
 -  Undo pentru ultima operatie efectuata
--  Exportarea cosului intr-un fisier HTML
+-  Exportarea cosul de inchirieri intr-un fisier HTML
 -  Generarea unui raport despre genurile de filme
 
 ### 4. Interfete grafice multiple
 -  **Fereastra principala**: centralizeaza toate actiunile
 -  **Fereastra pentru cos**: permite gestionarea filmelor selectate
--  **Mod Read-Only**: ofera o vizualizare grafica a cosului, unde fiecare film este repezentat printr-o forma geometrica
+-  **Mod Read-Only**: ofera o vizualizare grafica a cosul de inchirieri, unde fiecare film este reprezentat printr-o forma geometrica
 
 ## Tehnologii utilizate
 - **Limbaj**: C++ (folosind STL pentru structuri de date si algoritmi)
