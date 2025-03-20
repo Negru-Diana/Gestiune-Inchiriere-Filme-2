@@ -15,23 +15,23 @@
 ### 2. Gestionarea inchirierilor
 -  Adaugare filme in cosul de inchirieri
 -  Stergere filme din cos
--  Generarea cosului cu filme aleatorii
--  Vizualizare cos in doua moduri: CRUD si Read-Only
+-  Generare cos cu filme aleatorii
 
-### 3. Functionalitati avansate
+### 3. Functionalitati suplimentare
 -  Undo pentru ultima operatie efectuata
--  Generarea de rapoarte despre genurile de filme si distributia acestora
+-  Exportarea cosului intr-un fisier HTML
+-  Generarea unui raport despre genurile de filme
 
 ### 4. Interfete grafice multiple
 -  **Fereastra principala**: centralizeaza toate actiunile
--  **Fereastra pentru cos**: vizualizeaza si gestioneaza filmele selectate
--  **Mod Read-Only**: afiseaza cosul ca o histograma dinamica cu forme geometrice
+-  **Fereastra pentru cos**: permite gestionarea filmelor selectate
+-  **Mod Read-Only**: ofera o vizualizare grafica a cosului, unde fiecare film este repezentat printr-o forma geometrica
 
-## Tehnologii si structura
+## Tehnologii utilizate
 - **Limbaj**: C++ (folosind STL pentru structuri de date si algoritmi)
 - **Interfata Grafica**: Qt Framework
 - **Stocare**: datele sunt salvate in fisiere text
 - **Design Patterns**:
     -  **Observer**: actualizeaza automat interfata cosului la fiecare modificare
-    -  **Layered Architecture**: separarea logicii de business, date si interfata
+    -  **Layered Architecture**: separarea logicii aplicatiei
 
